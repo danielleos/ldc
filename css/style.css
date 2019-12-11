@@ -1,0 +1,23 @@
+body {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #000;
+}
+
+.navbar {
+    width: 100%;
+    background-color: blue;
+    font-size: 1.5em;
+}
+
+.navbar-brand {
+    font-size: 2em;
+}
+
+.navbar-logo {
+    height: 40px;
+    padding: 0px 10px 0px 10px;
+}
+
+.intro {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
